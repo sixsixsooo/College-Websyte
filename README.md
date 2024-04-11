@@ -1,4 +1,4 @@
-#Syte college
+# Syte college
 Languages ✓
 -HTML5
 -CSS3
