@@ -1,0 +1,27 @@
+#Profile {
+	background-color: rgb(121, 110, 205);
+	border-radius: 10px 30px 20px 30px;
+	color: rgb(255, 255, 255);
+	font-size: 15px;
+	font-family: century gothic;
+	margin: 0 4px 0 0;
+	padding: 8px 15px 8px 15px;
+}
+.active {
+	background-color: antiquewhite;
+	border-radius: 40px;
+	padding: 6px 15px 6px 15px;
+	color: black;
+	font-family: century gothic;
+	margin: 0 4px 0 0;
+	font-size: 13px;
+}
+#Logout {
+	background-color: rgb(216, 30, 30);
+	border-radius: 40px;
+	color: aliceblue;
+	padding: 4px 15px 4px 15px;
+	font-size: 14px;
+	font-family: century gothic;
+	margin: 0 4px 0 0;
+}
